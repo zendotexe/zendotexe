@@ -34,8 +34,10 @@ My GitHub username is derived from a pun abount my regular online username, zeni
 
 ## Contact Me 📞
 
-</a>  <img src="https://github.com/ItsJacovJS/itsjacovjs/blob/main/icons/discord.png?raw=true" alt="Discord" width="20" height="20"/> `zen_ix` </a>
+</a>  <img src="https://github.com/zendotexe/zendotexe/blob/main/icons/gmail.png?raw=true" alt="GMail" width="20" height="20"/> `zen.dotexe@gmail.com` </a>
 
-</a>  <img src="https://github.com/ItsJacovJS/itsjacovjs/blob/main/icons/gmail.png?raw=true" alt="Discord" width="20" height="20"/> `zen.dotexe@gmail.com` </a>
+</a>  <img src="https://github.com/zendotexe/zendotexe/blob/main/icons/discord.png?raw=true" alt="Discord" width="20" height="20"/> `zen_ix` </a>
+
+</a>  <img src="https://github.com/zendotexe/zendotexe/blob/main/icons/steam.png?raw=true" alt="Steam" width="20" height="20"/> `zen` </a>
 
 ----
