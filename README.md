@@ -1,10 +1,10 @@
 <h1 align="center">zen.exe</h1>
 
-## About Me 🚀
+## about me 🌐
 
-My GitHub username is derived from a pun about my regular online username, zenix. I'm an average person who loves to code for fun, play video games, and watch TV shows in their free time. I also play chess, and dabble in producing music. Feel free to contact me whenever you want to! I will respond as soon as I can!
+my github username is derived from a pun about my regular online username, zenix. im an average guy that likes to code for fun, play video games, and watch a show in my free time. i also play chess, and dabble in producing music. feel free to contact me whenever you want to, ill make sure to respond as soon as i can.
 
-## Programming Languages 🖊️
+## programming languages 🖥️
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
 </a> //
@@ -29,10 +29,10 @@ My GitHub username is derived from a pun about my regular online username, zenix
 
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=zendotexe&theme=highcontrast" alt="MyStreak" /></p>
 
-## Projects 🛠️ 
+## projects 🛠️ 
 * [acadsistant](https://github.com/zendotexe/acadsistant) 
 
-## Contact Me 📞
+## contact me ☎️
 
 </a>  <img src="https://github.com/zendotexe/zendotexe/blob/main/icons/gmail.png?raw=true" alt="GMail" width="20" height="20"/> `zen.dotexe@gmail.com` </a>
 
