@@ -27,7 +27,7 @@ my github username is derived from a pun about my regular online username, zenix
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=zendotexe&theme=highcontrast" alt="MyStreak" /></p>
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=zendotexe&theme=github-dark" alt="MyStreak" /></p>
 
 ## projects 🛠️ 
 * [acadsistant](https://github.com/zendotexe/acadsistant) 
