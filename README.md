@@ -2,7 +2,7 @@
 
 ## about me 🌐
 
-my github username is derived from a pun about my regular online username, zenix. im an average guy that likes to code for fun, play video games, and watch a show in my free time. i also play chess, and dabble in producing music. feel free to contact me whenever you want to, ill make sure to respond as soon as i can.
+my github username is derived from a pun on my regular online username, zenix. im an average chud nerd that likes to code for fun, play video games, and read manga in my free time. i also play chess, and dabble in producing music. feel free to contact me whenever you want to, ill make sure to respond as soon as i can.
 
 ## programming languages 🖥️
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
